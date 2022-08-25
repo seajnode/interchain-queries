@@ -1,8 +1,8 @@
 stride-testnet:
     key: wallet
     chain-id: STRIDE-TESTNET-4
-    rpc-addr: http://127.0.0.1:16657      # use your own Stride GRPC endpoint here
-    grpc-addr: http://127.0.0.1:16090     # use your own Stride GRPC endpoint here
+    rpc-addr: http://127.0.0.1:16657
+    grpc-addr: http://127.0.0.1:16090
     account-prefix: stride
     keyring-backend: test
     gas-adjustment: 1.2
